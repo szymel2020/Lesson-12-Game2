@@ -9,3 +9,10 @@ const guessField = document.querySelector(".guessField");
 
 let guessCount = 1;
 let resetButton;
+
+// funkcje
+
+function checkGuess() {
+  alert("I am a placeholder");
+}
+checkGuess();
